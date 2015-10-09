@@ -1,8 +1,8 @@
 # Best Practices for JavaScript
 
-JavaScript: The Good Parts is a great book by Douglas Crockford and I recomment reading it. There as some guidelines that would be useful to always have at hand.
+JavaScript: The Good Parts is a great book by Douglas Crockford. I recommend it. Here are some guidelines that are useful to always have at hand.
 
-Some snippets have their own file, so you can clone this repo and run them with `node`.
+*Some snippets have their own file, so you can clone this repo and run them with `node`.*
 
 ## Unfamiliar invocation patterns
 
